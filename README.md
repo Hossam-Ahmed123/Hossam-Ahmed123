@@ -68,4 +68,5 @@ I take pride in maintaining excellence through continuous learning and technical
 ## 📫 Let's Connect!
 - **Email**: [hossama665@gmail.com](mailto:hossama665@gmail.com)  
 - **LinkedIn**: [Hossam Ahmed](https://www.linkedin.com/in/hossamjava/)  
-- **Phone**: +971 58 230 2840  
+- **Phone**: +971 58 230 2840
+- **Egypt Phone**: +20 100 400 3528 
