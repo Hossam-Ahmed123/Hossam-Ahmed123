@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=00ADFF&center=true&vCenter=true&width=1000&height=200&lines=log(%22Welcome+To+My+GITHUB%22))](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Hossam Ahmed </h1>
  
-<h3> 
+
 I'm a **Software Engineer** based in Dubai, UAE, with over **8 years of experience** in diverse domains like **Data Engineering, Blockchain, ERP, Cloud, E-banking**, and **IoT systems**.  
 I take pride in maintaining excellence through continuous learning and technical growth. I thrive in both team collaborations and individual projects.
-</h3>
+ 
 ---
 
 ## 🌟 My Interests
