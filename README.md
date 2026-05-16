@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Hossam Ahmed</h1>
 
 <h3 align="center">
-Backend Engineering Lead | Solution Architect |Java & Spring boot | Distributed Systems & Integration
+Backend Engineering Lead | Solution Architect | Java & Spring boot | Distributed Systems & Integration
 </h3>
 
 ---
