@@ -21,7 +21,7 @@ I specialize in:
 - Event-Driven Systems
 - AI-Powered Platforms
 
-I have strong experience building high-performance backend services using Java, Spring Boot, Kafka, IBM MQ, Elasticsearch, and cloud-native technologies.
+I have strong experience building high-performance backend services using Java, Spring Boot, Kafka, IBM MQ, IIB, Elasticsearch, and cloud-native technologies.
 
 Earlier in my career, I worked extensively on large-scale data crawling, ingestion, and analytics systems, giving me solid expertise in distributed data platforms and scalable processing pipelines.
 
