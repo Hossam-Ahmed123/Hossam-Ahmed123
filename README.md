@@ -45,6 +45,13 @@ I’m passionate about solving complex business problems through clean architect
 - High Availability & Scalability
 - Performance Optimization & Troubleshooting
 
+## AI Engineering & Orchestration
+- LLM Integration & Orchestration (OpenAI, Anthropic Claude)
+- LangChain, Spring AI Framework
+- Vector Databases & Semantic Search (pgvector, Elasticsearch KNN)
+- Prompt Engineering & Context Window Optimization
+- Intelligent Agentic Workflows
+
 ## Data & Search
 - Elasticsearch, Apache Solr
 - PostgreSQL, Oracle, MySQL
@@ -62,6 +69,16 @@ I’m passionate about solving complex business problems through clean architect
 ---
 
 # 🚀 Professional Experience
+
+## Founder & Solution Architect @ Zidni AI
+*(Jan 2025 – Present | Dubai, UAE / Remote)*
+
+- Conceptualized, designed, and architected **Zidni AI**, a multi-tenant, AI-powered educational SaaS platform supporting 200+ active students and multiple commercial clients.
+- Built a secure, multi-tenant isolation framework ensuring data separation and dynamic request routing at both application and database layers.
+- Integrated LLM APIs to drive context-aware evaluation systems, dynamic student assistant agents, and specialized educational content pipelines.
+- Implemented semantic hybrid search workflows leveraging relational storage coupled with dense vector spaces to handle cognitive queries effectively.
+
+---
 
 ## Senior Software Engineer @ Dubai Police
 *(Jan 2022 – Present | Dubai, UAE)*
