@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Hossam Ahmed</h1>
 
 <h3 align="center">
-Backend Engineering Lead | Solution Architect | Distributed Systems & Integration
+Backend Engineering Lead | Solution Architect |Java & Spring boot | Distributed Systems & Integration
 </h3>
 
 ---
@@ -34,7 +34,7 @@ I’m passionate about solving complex business problems through clean architect
 ## Backend & Integration
 - Java, Spring Boot, Spring Security, Hibernate
 - REST APIs & Microservices
-- Kafka, IBM MQ, ActiveMQ
+- Kafka, IBM MQ, IBM Integration Bus, ActiveMQ
 - SOA & Event-Driven Architecture
 - API Integration & Enterprise Messaging
 
@@ -47,6 +47,7 @@ I’m passionate about solving complex business problems through clean architect
 
 ## AI Engineering & Orchestration
 - LLM Integration & Orchestration (OpenAI, Anthropic Claude)
+- MCP (Model Context Protocol)
 - LangChain, Spring AI Framework
 - Vector Databases & Semantic Search (pgvector, Elasticsearch KNN)
 - Prompt Engineering & Context Window Optimization
