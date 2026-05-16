@@ -73,7 +73,7 @@ I’m passionate about solving complex business problems through clean architect
 ## Founder & Solution Architect @ Zidni AI
 *(Jan 2025 – Present | Dubai, UAE / Remote)*
 
-- Conceptualized, designed, and architected **Zidni AI**, a multi-tenant, AI-powered educational SaaS platform supporting 200+ active students and multiple commercial clients.
+- Conceptualized, designed, and architected **Zidni AI**, a multi-tenant, AI-powered educational SaaS platform supporting 200+ active multiple commercial clients.
 - Built a secure, multi-tenant isolation framework ensuring data separation and dynamic request routing at both application and database layers.
 - Integrated LLM APIs to drive context-aware evaluation systems, dynamic student assistant agents, and specialized educational content pipelines.
 - Implemented semantic hybrid search workflows leveraging relational storage coupled with dense vector spaces to handle cognitive queries effectively.
